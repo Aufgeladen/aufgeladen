@@ -1,4 +1,4 @@
-<h1>My main discord account got banned alt: .uproject</h1>
+<h1>My main discord account got banned alt: .aufgeladen</h1>
 
 <!--
 **Aufgeladen/aufgeladen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
