@@ -16,7 +16,7 @@
 ## Get in Touch
 - 🌎 Website: [aufgeladen.dev](https://aufgeladen.dev)  
 - 🔗 PyFN: [pyfn.dev](https://pyfn.dev)  
-- 📬 Discord: *XMPPSERVER*  
+- 📬 Discord: *MATCHMAKINGSERVICE*  
 
 <h1>‎</h1>
 
