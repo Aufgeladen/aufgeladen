@@ -11,8 +11,7 @@
 ## What I Work On
 - 🚀 **Fortnite Mods** – Custom content, private servers, backends
 - 🛠️ **PyFN** – Bringing back the OG Fortnite experience with Python
-- 🎮 **Eclipse** - A OG Fortnite Private server by [secret-pommes](https://github.com/secret-pommes), [Criador_Mods](https://github.com/CriadorMods), [Epic](https://github.com/archiejholmes) and me [Aufgeladen](https://github.com/Aufgeladen)
-
+- 
 ## Get in Touch
 - 🌎 Website: [aufgeladen.dev](https://aufgeladen.dev)  
 - 🔗 PyFN: [pyfn.dev](https://pyfn.dev)  
