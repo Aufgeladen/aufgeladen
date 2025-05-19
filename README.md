@@ -1,22 +1,5 @@
 # 👋 Hey, I'm NOT Aufgeladen (Jakob)
 
-💻 **Dev & UEGane Modder**
-
-## About Me
-- 🐍 Experienced in **Python**, **HTML**, and **CSS**  
-- 🎮 Modding **Fortnite**
-- 🌐 Owner of **[aufgeladen.dev](https://aufgeladen.dev)** & **[pyfn.dev](https://pyfn.dev)**  
-- 🏴‍☠️ Founder of **PyFN**, an OGFN private server written mostly in Python  
-
-## What I Work On
-- 🚀 **Fortnite Mods** – Custom content, private servers, backends
-- 🛠️ **PyFN** – Bringing back the OG Fortnite experience with Python
-- 
-## Get in Touch
-- 🌎 Website: [aufgeladen.dev](https://aufgeladen.dev)  
-- 🔗 PyFN: [pyfn.dev](https://pyfn.dev)  
-- 📬 Discord: *MATCHMAKINGSERVICE*  
-
 <h1>‎</h1>
 
 <p align="left"> 
